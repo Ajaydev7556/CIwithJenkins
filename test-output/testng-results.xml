@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-10-25T16:58:25 IST" name="Suite" finished-at="2024-10-25T16:58:25 IST" duration-ms="33">
+  <suite started-at="2024-10-25T18:22:51 IST" name="Default suite" finished-at="2024-10-25T18:22:51 IST" duration-ms="54">
     <groups>
     </groups>
-    <test started-at="2024-10-25T16:58:25 IST" name="Test" finished-at="2024-10-25T16:58:25 IST" duration-ms="33">
+    <test started-at="2024-10-25T18:22:51 IST" name="Default test" finished-at="2024-10-25T18:22:51 IST" duration-ms="54">
       <class name="com.ci.runner.Runner">
-        <test-method is-config="true" signature="runSetup()[pri:0, instance:com.ci.runner.Runner@2a798d51]" started-at="2024-10-25T16:58:09 IST" name="runSetup" finished-at="2024-10-25T16:58:25 IST" duration-ms="15773" status="PASS">
+        <test-method is-config="true" signature="runSetup()[pri:0, instance:com.ci.runner.Runner@2a798d51]" started-at="2024-10-25T18:22:46 IST" name="runSetup" finished-at="2024-10-25T18:22:51 IST" duration-ms="4816" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runSetup -->
-        <test-method signature="login()[pri:0, instance:com.ci.runner.Runner@2a798d51]" started-at="2024-10-25T16:58:25 IST" name="login" finished-at="2024-10-25T16:58:25 IST" duration-ms="5" status="PASS">
+        <test-method signature="login()[pri:0, instance:com.ci.runner.Runner@2a798d51]" started-at="2024-10-25T18:22:51 IST" name="login" finished-at="2024-10-25T18:22:51 IST" duration-ms="7" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
       </class> <!-- com.ci.runner.Runner -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

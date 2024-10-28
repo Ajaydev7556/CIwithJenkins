@@ -6,7 +6,7 @@ import org.testng.annotations.BeforeSuite;
 
 public class BaseTest {
 	
-	public static WebDriver driver;
+	public WebDriver driver;
 	
 	@BeforeSuite
 	public void runSetup()
